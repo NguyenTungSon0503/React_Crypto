@@ -11,5 +11,5 @@ Ruby 3.1.2, Ruby on Rails 7.0.4, Node 14.10.0
 
 Note: This project using firebase v9 for authentication and store data. 
 
-This project has already deployed to AWS EC2 server with IP: 35.79.197.28
+This project has already deployed to the AWS EC2 server with IP: 35.79.197.28
 
