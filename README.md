@@ -2,7 +2,7 @@
 Project for Web programming subject  
   
 To run this project, you need to install enviroment  
-Ruby 3.1.2, Ruby on Rails 7.0.4, Node 14.10.0  
+Node v14.10.0, Npm v6.14.8  
 
 1. clone this project: https://github.com/NguyenTungSon0503/React_Crypto
 2. cd crypto_frontend  
