@@ -1,0 +1,9 @@
+version: "3.7"
+
+services:
+  app:
+    container_name: test_name
+    image: react_crypto:v1
+    ports:
+      - "80:80"
+    restart: unless-stopped
